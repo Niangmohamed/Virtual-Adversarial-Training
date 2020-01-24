@@ -1,2 +1,2 @@
-# Deep-Learning-
-Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning
+# Deep Learning: Virtual Adversarial Training
+A Regularization Method for Supervised and Semi-Supervised Learning
